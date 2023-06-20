@@ -4,20 +4,21 @@
 - 😍 love bootstrap 5
 
 ## These are my recentely projects for practice.
-- a practice of CSS
-repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6
-github Page: https://nekoboxy.github.io/frontend-crash-course/assignment6/
-use: vite, vue 3 composition API, bootstrap 5, SASS, vue-router, Swiper.js, axios, Google Maps JavaScript API
+- 📢 sort from latest to oldest
+### a practice of CSS
+- repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6
+- github Page: https://nekoboxy.github.io/frontend-crash-course/assignment6/
+- use: vite, vue 3 composition API, bootstrap 5, SASS, vue-router, Swiper.js, axios, Google Maps JavaScript API
 
-- a simple practice of CSS
-repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment0
-github Page: https://nekoboxy.github.io/frontend-crash-course/assignment0/
-use: vite, vue 3 composition API, bootstrap 5, css, vue-router, Swiper.js
+### a simple practice of CSS
+- repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment0
+- github Page: https://nekoboxy.github.io/frontend-crash-course/assignment0/
+- use: vite, vue 3 composition API, bootstrap 5, css, vue-router, Swiper.js
 
-- a web-shop website with cart
-repo: https://github.com/NekoBoxy/vue-final-work
-github Page: https://nekoboxy.github.io/vue-final-work/
-use: vite, vue 3 option API, bootstrap 5, css, vue-router, axios
+### a web-shop website with cart
+- repo: https://github.com/NekoBoxy/vue-final-work
+- github Page: https://nekoboxy.github.io/vue-final-work/
+- use: vite, vue 3 option API, bootstrap 5, css, vue-router, axios
 
 ![NekoBoxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoBoxy&show_icons=true&theme=vision-friendly-dark)
 
