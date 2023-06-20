@@ -1,4 +1,8 @@
 ### Hi there 👋
+![NekoBoxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoBoxy&show_icons=true&theme=vision-friendly-dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course/assignment6/)](https://github.com/NekoBoxy/frontend-crash-course/assignment6/)
+
 
 <!--
 **NekoBoxy/NekoBoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
