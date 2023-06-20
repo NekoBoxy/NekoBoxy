@@ -1,7 +1,11 @@
 ### Hi there 👋
 ![NekoBoxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoBoxy&show_icons=true&theme=vision-friendly-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course/tree/main/assignment6)](https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course](https://github.com/NekoBoxy/frontend-crash-course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course](https://github.com/NekoBoxy/frontend-crash-course)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=vue-final-work](https://github.com/NekoBoxy/vue-final-work)
 
 
 <!--
