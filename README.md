@@ -4,7 +4,7 @@
 - 😍 love Bootstrap 5
 
 ## These are my recentely projects for practice. Sort from latest to oldest.
-### A practice of CSS
+### A practice of a website about Taiwan viewpoints.
 - 📢 This project is not yet completed and is still in progress.
 - repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6
 - github Page: https://nekoboxy.github.io/frontend-crash-course/assignment6/
@@ -17,6 +17,7 @@
 - use: vite, vue 3 composition API, Bootstrap 5, css, vue-router, Swiper.js
 
 ### A web-shop website with cart
+- 🌱 It's my first project and it can works! 😆
 - repo: https://github.com/NekoBoxy/vue-final-work
 - github Page: https://nekoboxy.github.io/vue-final-work/
 - use: vite, vue 3 option API, Bootstrap 5, css, vue-router, axios
