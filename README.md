@@ -1,8 +1,11 @@
 ### Hi there 👋
 ![NekoBoxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoBoxy&show_icons=true&theme=vision-friendly-dark)
 
-<!-- api/pin?username=anuraghazra&repo=github-readme-stats -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course" />
+  <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qqboxy&theme=monokai" /> -->
+</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoBoxy&repo=frontend-crash-course)](https://github.com/NekoBoxy/frontend-crash-course)
 
