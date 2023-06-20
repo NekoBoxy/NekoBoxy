@@ -3,8 +3,7 @@
 - 👀 I’m currently learning Vue 3, JavaScript, CSS, HTML and every interesting thing on web.
 - 😍 love Bootstrap 5
 
-## These are my recentely projects for practice.
-- 📢 sort from latest to oldest
+## These are my recentely projects for practice. Sort from latest to oldest.
 ### A practice of CSS
 - 📢 This project is not yet completed and is still in progress.
 - repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6
