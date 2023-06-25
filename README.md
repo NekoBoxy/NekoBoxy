@@ -1,5 +1,6 @@
-# 👋 Hello World! I'm CatBoxy, or you can call me Otter. 😆
-- 🌱 I'm a new-start novice on front-end.
+# Hello World!👋
+# I'm CatBoxy, or you can call me Otter.😆
+- 🌱 I'm a new-start novice developer on front-end.
 - 👀 I’m currently learning Vue 3, JavaScript, CSS, HTML and every interesting thing on web.
 - 😍 love Bootstrap 5
 
@@ -14,7 +15,7 @@
 - 📢 This project is just a simple practice of css on the index.
 - repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment0
 - github Page: https://nekoboxy.github.io/frontend-crash-course/assignment0/
-- use: vite, vue 3 composition API, Bootstrap 5, css, vue-router, Swiper.js
+- use: vite, vue 3 composition API, Bootstrap 5, css, Swiper.js
 
 ### A web-shop website with cart
 - 🌱 It's my first project and it can works! 😆
