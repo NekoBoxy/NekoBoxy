@@ -1,14 +1,14 @@
-# Hello World! I'm CatBoxy, or you can call me Otter.😆
+# Hello World! I'm CatBoxy(Otter).😆
 - 🌱 I'm a new-start novice developer on front-end.
 - 👀 I’m currently learning Vue 3, JavaScript, CSS, HTML and every interesting thing on web.
 - 😍 love Bootstrap 5
 
 ## These are my recentely projects for practice. Sort from latest to oldest.
 ### A practice of a website about Taiwan viewpoints.
-- 📢 This project is not yet completed and is still in progress.
+- 📢 This project is almost finished.
 - repo: https://github.com/NekoBoxy/frontend-crash-course/tree/main/assignment6
 - github Page: https://nekoboxy.github.io/frontend-crash-course/assignment6/
-- use: vite, vue 3 composition API, Bootstrap 5, SASS, vue-router, Swiper.js, axios, Google Maps JavaScript API
+- use: vite, vue 3 composition API, Bootstrap 5, SASS, vue-router, Swiper.js, axios, Google Maps JavaScript API, Vue-Multiselect
 
 ### A simple practice of CSS
 - 📢 This project is just a simple practice of css on the index.
