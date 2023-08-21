@@ -2,6 +2,7 @@
 - 🌱 I'm a new-start novice developer on front-end.
 - 👀 I’m currently learning Vue 3, JavaScript, CSS, HTML and every interesting thing on web.
 - 😍 love Bootstrap 5
+- 🔥 Now, I'm prepare the 2023-Ironman races start at 2023/09/01, which is hosting by the IThome. All contestants need to write an article for 30 days. Hope I can complete this challenge!
 
 ## These are my recentely projects for practice. Sort from latest to oldest.
 ### A practice of a website about Taiwan viewpoints.
