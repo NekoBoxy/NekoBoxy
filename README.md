@@ -1,8 +1,8 @@
 # Hello World! I'm CatBoxy(Otter).😆
 - 🌱 I'm a new-start novice developer on front-end.
-- 👀 I’m currently learning Vue 3, JavaScript, CSS/SASS, HTML and every interesting thing on web.
+- 👀 I’m currently learning Vue 3, JavaScript, CSS, SASS/SCSS, HTML and every interesting thing on web.
 - 😍 love Bootstrap 5
-- 🔥 Now, I'm prepare the 2023-Ironman races start at 2023/09/01, which is hosting by the IThome. All contestants need to write an article per day for 30 days. Hope I can complete this challenge!
+- 🔥 Now, I'm just finished the 2023-Ironman races, which is hosting by the IThome and start at 2023/09/01. Need to write an article per day for 30 days. Here is my article link about basic HTML/CSS/JavaScript：[GPT 救救我！菜雞小海獺的前端成長之旅 - 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20161801/ironman/5981)
 
 ## My recentely projects for practice. Sort from latest to oldest.
 ### A practice of a website about Taiwan viewpoints.
